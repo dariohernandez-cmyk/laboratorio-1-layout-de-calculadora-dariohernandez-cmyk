@@ -1,12 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VG02tCcC)
 # 📝 Laboratorio 1: Layout de Calculadora con Jetpack Compose
 
 ## 👤 Datos del Estudiante
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Dario Hernandez
+- **Carrera**: Ingniería de Software
+- **Fecha de entrega**: 23/04/2026
 
 ---
 
